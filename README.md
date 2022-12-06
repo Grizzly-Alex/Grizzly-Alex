@@ -26,13 +26,23 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Code" alt="Visual Code" width="40" height="40"/>&nbsp;
 </div>
 
-
-
 ---
 
 #### 📫 My Contacts :  
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexander-medved-grizzly/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=for-the-badge&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/av_grizzly/)
+
+---
+
+#### 📈 My Stats :  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grizzly-pride&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grizzly-pride&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 
 
 
