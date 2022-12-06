@@ -9,7 +9,7 @@
 
 
 #### ✒️ About Me :
-//TODO
+I am a beginner .NET Developer and currently studying ASP.net Core MVC. I also develop my game on the Unity engine.
 
 ---
 
