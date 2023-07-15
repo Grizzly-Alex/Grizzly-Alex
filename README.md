@@ -26,6 +26,7 @@ I am a beginner .NET Developer and currently studying ASP.net Core MVC. I also d
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Visual Code" alt="Visual Code" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/35379801/209431080-94c25bdf-38bb-42df-985e-4659c65eaa46.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/35379801/209432076-0141f48d-29b2-4e92-a1d6-2bfd775c2f2f.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
 ---
