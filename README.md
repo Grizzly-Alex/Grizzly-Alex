@@ -9,7 +9,9 @@
 
 
 #### ✒️ About Me :
-I am a beginner .NET Developer and currently studying ASP.net Core MVC. I also develop my game on the Unity engine.
+<p>“Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.”
+  ― Linus Torvalds
+</p>
 
 ---
 
